@@ -1,0 +1,15 @@
+npm-debug.log
+.DS_Store
+
+*.js.map
+app/config/
+app/**/*.js
+app/**/*.css
+lib/
+ThreeDotTwo/node_modules/
+ThreeDotThree/node_modules/
+platforms/
+tmp/
+typings/
+report/
+
